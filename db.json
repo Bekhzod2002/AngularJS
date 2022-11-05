@@ -1,0 +1,22 @@
+{
+  "ProductList": [
+    {
+      "ProductName": "Iphone",
+      "Category": "Iphone",
+      "Condition": "New",
+      "Price": "2000",
+      "Comment": "new ",
+      "Date": "2022-10-31T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "ProductName": "samsung",
+      "Category": "Samsung",
+      "Condition": "New",
+      "Price": "750",
+      "Comment": "new",
+      "Date": "2022-10-31T21:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
